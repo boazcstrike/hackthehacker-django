@@ -1,4 +1,4 @@
-import geoip2.database
+# import geoip2.database
 
 from django.shortcuts import render
 from rest_framework import status, generics, viewsets, serializers
